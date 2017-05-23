@@ -1,2 +1,2 @@
 # class-readers
-Track reading events in class
+Android app for tracking reading events with pupils in class.
